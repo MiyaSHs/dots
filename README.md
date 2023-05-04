@@ -1,2 +1,2 @@
 # dots
-Personal Hyprland dotfiles
+Requirements are hyprland, waybar(With hyprland patches), mako, swww
