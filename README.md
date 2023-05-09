@@ -1,5 +1,5 @@
 # dots
-Requirements are hyprland, waybar(With hyprland patches), mako, swww, wofi, udiskie, gnome polkit, xdg-desktop-portal-hyprland(or wlr), watershot, cliphist, kitty, zsh, oh-my-zsh, jetbrainsmono nerd font and starship.rs
+Requirements are hyprland, waybar(With hyprland patches), mako, swww, wofi, udiskie, gnome polkit, xdg-desktop-portal-hyprland(or wlr), watershot, cliphist, kitty, zsh, oh-my-zsh, jetbrainsmono nerd font, starship.rs and pywal
 
 The theme is Graphite darker variant
 use nwg-look (recommended) or lxappearance to change the gtk theme
